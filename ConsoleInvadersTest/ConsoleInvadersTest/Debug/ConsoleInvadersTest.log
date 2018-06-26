@@ -1,0 +1,17 @@
+﻿  game.cpp
+d:\program files (x86)\visual studio\learning\consoleinvaderstest\consoleinvaderstest\level.h(15): warning C4305: инициализация: усечение из "double" к "float"
+d:\program files (x86)\visual studio\learning\consoleinvaderstest\consoleinvaderstest\level.h(16): warning C4305: инициализация: усечение из "double" к "float"
+d:\program files (x86)\visual studio\learning\consoleinvaderstest\consoleinvaderstest\level.h(22): warning C4305: инициализация: усечение из "double" к "float"
+d:\program files (x86)\visual studio\learning\consoleinvaderstest\consoleinvaderstest\game.cpp(40): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\program files (x86)\visual studio\learning\consoleinvaderstest\consoleinvaderstest\game.cpp(66): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\program files (x86)\visual studio\learning\consoleinvaderstest\consoleinvaderstest\game.cpp(66): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\program files (x86)\visual studio\learning\consoleinvaderstest\consoleinvaderstest\game.cpp(78): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\program files (x86)\visual studio\learning\consoleinvaderstest\consoleinvaderstest\game.cpp(78): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\program files (x86)\visual studio\learning\consoleinvaderstest\consoleinvaderstest\game.cpp(91): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\program files (x86)\visual studio\learning\consoleinvaderstest\consoleinvaderstest\game.cpp(91): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\program files (x86)\visual studio\learning\consoleinvaderstest\consoleinvaderstest\game.cpp(247): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\program files (x86)\visual studio\learning\consoleinvaderstest\consoleinvaderstest\game.cpp(254): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\program files (x86)\visual studio\learning\consoleinvaderstest\consoleinvaderstest\game.cpp(321): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\program files (x86)\visual studio\learning\consoleinvaderstest\consoleinvaderstest\game.cpp(331): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  ConsoleInvadersTest.vcxproj -> D:\Program Files (x86)\Visual Studio\learning\ConsoleInvadersTest\Debug\ConsoleInvadersTest.exe
+  ConsoleInvadersTest.vcxproj -> D:\Program Files (x86)\Visual Studio\learning\ConsoleInvadersTest\Debug\ConsoleInvadersTest.pdb (Full PDB)
